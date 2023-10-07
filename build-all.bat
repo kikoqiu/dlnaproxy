@@ -11,7 +11,3 @@ SET GOARCH=arm
 SET GOOS=linux
 ECHO Compile Linux ARM
 go build -o build\dlnaproxy_armhf
-
-start upx -9 build\dlnaproxy.exe
-start upx -9 build\dlnaproxy
-start upx -9 build\dlnaproxy_armhf

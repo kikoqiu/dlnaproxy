@@ -8,6 +8,7 @@ require (
 )
 
 require (
+	github.com/lucsky/go-exml v3.1.1+incompatible // indirect
 	golang.org/x/net v0.0.0-20220708220712-1185a9018129 // indirect
 	golang.org/x/sys v0.0.0-20220708085239-5a0f0661e09d // indirect
 )
